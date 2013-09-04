@@ -1,0 +1,17 @@
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\bin\Debug\RFID读写器控制器.exe.manifest
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\bin\Debug\RFID读写器控制器.application
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\bin\Debug\RFID读写器控制器.exe
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\bin\Debug\RFID读写器控制器.pdb
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\bin\Debug\fastJSON.dll
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\ResolveAssemblyReference.cache
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFIDReaderControler.frmMain.resources
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFIDReaderControler.frmReaderMngment.resources
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFIDReaderControler.frmReaderRunning.resources
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFIDReaderControler.frmStartReader.resources
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFIDReaderControler.Properties.Resources.resources
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFIDReaderControler.frmSysSettings.resources
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFIDReaderControler.csproj.GenerateResource.Cache
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFID读写器控制器.exe.manifest
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFID读写器控制器.application
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFID读写器控制器.exe
+C:\program\csharp\RFIDReaderControler\RFIDReaderControler\obj\Debug\RFID读写器控制器.pdb
